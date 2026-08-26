@@ -174,13 +174,9 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" alt="Harini's GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="48%" alt="Harini's GitHub Stats">
 
-<img src="./profile/top-langs.svg" width="40%" alt="Harini's top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Harini200513&theme=transparent&hide_border=true" width="70%" alt="Harini's GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0" width="40%" alt="Harini's Top Languages">
 
 </div>
 
