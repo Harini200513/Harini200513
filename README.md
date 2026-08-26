@@ -1,0 +1,311 @@
+# `README.md`
+
+```markdown
+<div align="center">
+
+<!-- Responsive Light/Dark GitHub Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Harini%20Kashaboina&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20Software%20Developer&descSize=18&descAlignY=62&animation=fadeIn&color=gradient&customColorList=0,12,20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Harini%20Kashaboina&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20Software%20Developer&descSize=18&descAlignY=62&animation=fadeIn&color=gradient&customColorList=0,12,20">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Harini%20Kashaboina&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20Software%20Developer&descSize=18&descAlignY=62&animation=fadeIn&color=gradient&customColorList=0,12,20" alt="Harini Kashaboina GitHub profile banner">
+</picture>
+
+# Hey there, I'm Harini 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Python+Developer;Full+Stack+Developer;Building+Practical+Web+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing animation">
+</a>
+
+<br>
+
+<a href="https://github.com/Harini200513">
+  <img src="https://img.shields.io/github/followers/Harini200513?style=for-the-badge&logo=github&label=Followers&labelColor=161616&color=EF93C4" alt="GitHub followers">
+</a>
+<a href="https://github.com/Harini200513?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Harini200513?style=for-the-badge&logo=github&label=Stars&labelColor=161616&color=F8BBD0" alt="GitHub stars">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Harini200513&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="GitHub profile views">
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+I'm a **2026 Computer Science and Engineering graduate** interested in software development and building practical, user-focused applications.
+
+- 💻 Focused on **MERN Stack Development** and **Python**
+- 🚀 Interested in full-stack web application development
+- 🧠 Exploring machine learning and modern developer technologies
+- 🛠️ Experienced in building full-stack and Python-based projects
+- 📚 Continuously improving my technical and problem-solving skills
+- 🎯 Open to **fresher software development opportunities**
+
+I enjoy turning ideas into useful applications while continuously learning better ways to design, build, and improve software.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="[YOUR_PROFILE_IMAGE_URL]" width="260" alt="Harini Kashaboina profile photo">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies">
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" alt="Backend and database technologies">
+
+### Programming & AI/ML
+
+<img src="https://skillicons.dev/icons?i=c,cpp,tensorflow,sklearn" alt="Programming and machine learning technologies">
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,aws" alt="Developer tools and cloud technologies">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-161616?style=for-the-badge&logo=html5&logoColor=EF93C4" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-161616?style=for-the-badge&logo=css3&logoColor=F8BBD0" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF69B4" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=EF93C4" alt="React">
+<img src="https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=node.js&logoColor=F8BBD0" alt="Node.js">
+<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python">
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">Digital Civic Engagement Platform</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-161616?style=flat-square&logo=mongodb&logoColor=EF93C4" alt="MERN Stack">
+</p>
+
+<p>
+A full-stack web platform designed to support <strong>digital civic engagement and interaction</strong>, providing a practical web-based environment for civic participation.
+</p>
+
+<p align="center">
+  <a href="[PROJECT_REPOSITORY_URL]">
+    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=EF93C4" alt="View Digital Civic Engagement Platform repository">
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Online Auction Platform</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-161616?style=flat-square&logo=react&logoColor=EF93C4" alt="MERN">
+  <img src="https://img.shields.io/badge/JWT-161616?style=flat-square&logo=jsonwebtokens&logoColor=F8BBD0" alt="JWT">
+</p>
+
+<p>
+A full-stack <strong>online auction application</strong> featuring user authentication and auction-related functionality, built with the MERN ecosystem and MongoDB.
+</p>
+
+<p align="center">
+  <a href="[PROJECT_REPOSITORY_URL]">
+    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=F8BBD0" alt="View Online Auction Platform repository">
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Human Pose Estimation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=EF93C4" alt="Python">
+  <img src="https://img.shields.io/badge/OpenCV-161616?style=flat-square&logo=opencv&logoColor=F8BBD0" alt="OpenCV">
+  <img src="https://img.shields.io/badge/MediaPipe-161616?style=flat-square&logo=google&logoColor=FF69B4" alt="MediaPipe">
+</p>
+
+<p>
+A computer vision project that <strong>detects and tracks human body poses</strong> using Python, OpenCV, and MediaPipe technologies.
+</p>
+
+<p align="center">
+  <a href="[PROJECT_REPOSITORY_URL]">
+    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF69B4" alt="View Human Pose Estimation repository">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/Harini200513">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=161616" alt="Harini's GitHub statistics">
+</a>
+
+<a href="https://github.com/Harini200513">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=F8BBD0&bg_color=161616" alt="Harini's top programming languages">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Harini200513&hide_border=true&background=161616&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Harini's GitHub contribution streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harini200513&bg_color=161616&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" width="95%" alt="Harini's GitHub activity graph">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+GitHub Actions setup:
+Create this workflow at:
+.github/workflows/snake.yml
+
+Use the Platane/snk action to generate:
+output/github-contribution-grid-snake.svg
+
+Then the image below will display your contribution animation.
+
+Example workflow:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Harini200513
+          outputs: |
+            output/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: output
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<img src="https://raw.githubusercontent.com/Harini200513/Harini200513/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+| Focus Area | Current Focus |
+|:---:|:---|
+| ⚛️ **MERN** | Advanced MERN Stack Development |
+| 🔧 **Backend** | Backend Architecture & API Development |
+| ☁️ **Cloud** | AWS & Cloud Fundamentals |
+| 🤖 **GenAI** | Generative AI & Modern AI/ML Technologies |
+| 🧩 **Engineering** | Problem Solving & Software Engineering Practices |
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+- Start my career as a software developer
+- Build scalable and useful applications
+- Strengthen my full-stack development skills
+- Continue learning modern technologies
+- Contribute to real-world software projects
+- Grow into a strong and well-rounded software engineer
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harini-kashaboina-42115b2a1">
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=EF93C4" alt="Connect with Harini on LinkedIn">
+</a>
+
+<a href="https://x.com/Harini_135">
+  <img src="https://img.shields.io/badge/X-161616?style=for-the-badge&logo=x&logoColor=FFFFFF&color=F8BBD0" alt="Follow Harini on X">
+</a>
+
+<a href="mailto:[VERIFY_EMAIL_ADDRESS]">
+  <img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF69B4" alt="Email Harini">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=gradient&customColorList=0,12,20" width="60%" alt="Pink divider">
+
+<p>
+  <strong>Open to learning • Building • Contributing • Growing</strong>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,12,20&animation=twinkling" width="100%" alt="Animated pink GitHub footer">
+
+</div>
+```
