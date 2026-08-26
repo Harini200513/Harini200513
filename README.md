@@ -54,8 +54,6 @@ I enjoy turning ideas into useful applications while continuously learning bette
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <div align="center">
 
 ### 💻 Languages
