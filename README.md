@@ -47,11 +47,6 @@ I enjoy turning ideas into useful applications while continuously learning bette
 
 </td>
 
-<td width="35%" align="center">
-
-<img src="[YOUR_PROFILE_IMAGE_URL]" width="260" alt="Harini Kashaboina profile photo">
-
-</td>
 </tr>
 </table>
 
