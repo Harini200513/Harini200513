@@ -165,17 +165,17 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="48%" alt="Harini's GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="Harini's GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4&text_color=F8BBD0" width="40%" alt="Harini's top programming languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&theme=transparent&hide_border=true" width="40%" alt="Harini's top languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Harini200513&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0" width="70%" alt="Harini's GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=Harini200513&theme=transparent&hide_border=true" width="70%" alt="Harini's GitHub streak">
 
 </div>
 
