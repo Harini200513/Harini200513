@@ -172,6 +172,7 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
 <img src="./profile/stats.svg" width="48%" alt="Harini's GitHub statistics">
@@ -197,6 +198,7 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 </picture>
 
 </div>
+
 ---
 # 🧠 Currently Learning
 
