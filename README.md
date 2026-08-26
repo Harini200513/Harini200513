@@ -165,13 +165,13 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="Harini's GitHub statistics">
+<img src="./profile/stats.svg" width="48%" alt="Harini's GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&theme=transparent&hide_border=true" width="40%" alt="Harini's top languages">
+<img src="./profile/top-langs.svg" width="40%" alt="Harini's top languages">
 
 <br><br>
 
@@ -179,51 +179,21 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 </div>
 
-# 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!--
-GitHub Actions setup:
-Create this workflow at:
-.github/workflows/snake.yml
-
-Use the Platane/snk action to generate:
-output/github-contribution-grid-snake.svg
-
-Then the image below will display your contribution animation.
-
-Example workflow:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Harini200513
-          outputs: |
-            output/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: output
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<img src="https://raw.githubusercontent.com/Harini200513/Harini200513/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img src="./profile/github-snake.svg" alt="Harini's GitHub contribution snake animation">
+</picture>
 
 </div>
 
 ---
-
 # 🧠 Currently Learning
 
 <div align="center">
