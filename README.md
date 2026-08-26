@@ -54,35 +54,47 @@ I enjoy turning ideas into useful applications while continuously learning bette
 
 ## 🛠️ Tech Stack
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <div align="center">
 
-### Frontend
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies">
+<img src="https://skillicons.dev/icons?i=c,python,java,js" alt="Programming Languages">
 
-### Backend & Databases
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" alt="Backend and database technologies">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend Technologies">
 
-### Programming & AI/ML
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=c,cpp,tensorflow,sklearn" alt="Programming and machine learning technologies">
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies">
 
-### Tools & Cloud
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-FF69B4?style=for-the-badge" alt="RESTful APIs">
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,aws" alt="Developer tools and cloud technologies">
+### 🗄️ Databases
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases">
 
-<img src="https://img.shields.io/badge/HTML5-161616?style=for-the-badge&logo=html5&logoColor=EF93C4" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-161616?style=for-the-badge&logo=css3&logoColor=F8BBD0" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF69B4" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=EF93C4" alt="React">
-<img src="https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=node.js&logoColor=F8BBD0" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python">
+### 🤖 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
+
+<p>
+  <img src="https://img.shields.io/badge/Keras-F8BBD0?style=for-the-badge&logo=keras&logoColor=black" alt="Keras">
+  <img src="https://img.shields.io/badge/Scikit--Learn-EF93C4?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-EF93C4?style=for-the-badge&logo=numpy&logoColor=black" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-F8BBD0?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
+</p>
+
+### ☁️ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,vite,postman,docker" alt="Cloud and Developer Tools">
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
