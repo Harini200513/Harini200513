@@ -165,8 +165,6 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 ---
 
-# 📊 GitHub Statistics
-
 ## 📊 GitHub Statistics
 
 <div align="center">
