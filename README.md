@@ -167,27 +167,19 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 # 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<a href="https://github.com/Harini200513">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=161616" alt="Harini's GitHub statistics">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Harini200513&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="48%" alt="Harini's GitHub statistics">
 
-<a href="https://github.com/Harini200513">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=F8BBD0&bg_color=161616" alt="Harini's top programming languages">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini200513&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4&text_color=F8BBD0" width="40%" alt="Harini's top programming languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Harini200513&hide_border=true&background=161616&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Harini's GitHub contribution streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harini200513&bg_color=161616&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" width="95%" alt="Harini's GitHub activity graph">
+<img src="https://streak-stats.demolab.com?user=Harini200513&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0" width="70%" alt="Harini's GitHub contribution streak">
 
 </div>
-
----
 
 # 🐍 Contribution Snake
 
