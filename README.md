@@ -1,6 +1,4 @@
-# `README.md`
 
-```markdown
 <div align="center">
 
 <!-- Responsive Light/Dark GitHub Banner -->
