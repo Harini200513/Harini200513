@@ -125,7 +125,7 @@ A collaborative task management application designed to help teams organize task
 <br>
 <br>
 <br>
-<a href="[TEAMTASK_PRO_REPOSITORY_URL]">
+<a href="https://github.com/Harini200513/Team-Task-Manager">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TeamTask Pro repository">
 </a>
 
