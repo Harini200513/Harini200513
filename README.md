@@ -124,6 +124,7 @@ A full-stack web platform designed to support digital civic engagement and inter
 A collaborative task management application designed to help teams organize tasks, track progress, and manage their work efficiently.
 <br>
 <br>
+<br>
 <a href="[TEAMTASK_PRO_REPOSITORY_URL]">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TeamTask Pro repository">
 </a>
