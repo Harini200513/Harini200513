@@ -181,7 +181,10 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Harini200513&theme=transparent&hide_border=true" width="70%" alt="Harini's GitHub streak">
+<img
+  src="https://streak-stats.demolab.com/?user=Harini200513&background=161616&stroke=3A2431&ring=EF93C4&fire=FF69B4&currStreakNum=FF69B4&sideNums=EF93C4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0&hide_border=true"
+  width="70%"
+  alt="Harini's GitHub contribution streak">
 
 </div>
 
@@ -190,12 +193,20 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake.svg" alt="Harini's GitHub contribution snake animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/github-snake.svg">
+
+  <img
+    src="./profile/github-snake.svg"
+    alt="Harini's GitHub contribution snake animation">
 </picture>
+
 
 </div>
 
