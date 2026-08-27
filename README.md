@@ -110,7 +110,7 @@ A full-stack web platform designed to support digital civic engagement and inter
 
 <br>
 
-<a href="[DIGITAL_CIVIC_ENGAGEMENT_REPOSITORY_URL]">
+<a href="https://github.com/Harini200513/Digital-Civic-Engagement-and-Petition-Platform">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Digital Civic Engagement Platform repository">
 </a>
 
