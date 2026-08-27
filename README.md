@@ -102,7 +102,7 @@ I enjoy turning ideas into useful applications while continuously learning bette
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### 🏛️ Digital Civic Engagement Platform
 
@@ -116,13 +116,13 @@ A full-stack web platform designed to support digital civic engagement and inter
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### 👥 TeamTask Pro
 
 <br>
 A collaborative task management application designed to help teams organize tasks, track progress, and manage their work efficiently.
-
+<br>
 <br>
 <a href="[TEAMTASK_PRO_REPOSITORY_URL]">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TeamTask Pro repository">
@@ -130,7 +130,7 @@ A collaborative task management application designed to help teams organize task
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ### 🤖 AI Recruitment Intelligence Platform
 
