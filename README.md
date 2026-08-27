@@ -180,14 +180,13 @@ A computer vision project that <strong>detects and tracks human body poses</stro
 
 <br><br>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Harini200513&background=FFFFFF&border=F8BBD0&stroke=F8BBD0&ring=EF93C4&fire=FF69B4&currStreakNum=FF69B4&sideNums=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999&hide_border=true"
-    width="70%"
-    alt="Harini's GitHub contribution streak">
-</div>
+<img
+  src="https://streak-stats.demolab.com/?user=Harini200513&background=FFFFFF&border=F8BBD0&stroke=F8BBD0&ring=EF93C4&fire=FF69B4&currStreakNum=FF69B4&sideNums=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999&hide_border=true"
+  width="70%"
+  alt="Harini's GitHub contribution streak">
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
