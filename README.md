@@ -163,7 +163,7 @@ An AI-powered recruitment application designed to support candidate evaluation a
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=Harini200513&background=161616&border=F8BBD0&stroke=F8BBD0&ring=EF93C4&fire=FF69B4&currStreakNum=FF69B4&sideNums=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Harini200513&background=000000&border=F8BBD0&stroke=F8BBD0&ring=EF93C4&fire=FF69B4&currStreakNum=FF69B4&sideNums=EF93C4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999&hide_border=true"
   width="70%"
   alt="Harini's GitHub contribution streak">
 
