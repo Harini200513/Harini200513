@@ -102,7 +102,7 @@ I enjoy turning ideas into useful applications while continuously learning bette
 <table>
 <tr>
 
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏛️ Digital Civic Engagement Platform
 
@@ -116,7 +116,7 @@ A full-stack web platform designed to support digital civic engagement and inter
 
 </td>
 
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 ### 👥 TeamTask Pro
 
@@ -130,7 +130,7 @@ A collaborative task management application designed to help teams organize task
 
 </td>
 
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 ### 🤖 AI Recruitment Intelligence Platform
 
