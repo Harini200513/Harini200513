@@ -95,74 +95,55 @@ I enjoy turning ideas into useful applications while continuously learning bette
 </div>
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-<h3 align="center">Digital Civic Engagement Platform</h3>
+### 🏛️ Digital Civic Engagement Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-161616?style=flat-square&logo=mongodb&logoColor=EF93C4" alt="MERN Stack">
-</p>
+A full-stack web platform designed to support digital civic engagement and interaction through a practical and user-focused application.
 
-<p>
-A full-stack web platform designed to support <strong>digital civic engagement and interaction</strong>, providing a practical web-based environment for civic participation.
-</p>
+<br>
 
-<p align="center">
-  <a href="[PROJECT_REPOSITORY_URL]">
-    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=EF93C4" alt="View Digital Civic Engagement Platform repository">
-  </a>
-</p>
+<a href="[DIGITAL_CIVIC_ENGAGEMENT_REPOSITORY_URL]">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Digital Civic Engagement Platform repository">
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3 align="center">Online Auction Platform</h3>
+### 👥 TeamTask Pro
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-161616?style=flat-square&logo=react&logoColor=EF93C4" alt="MERN">
-  <img src="https://img.shields.io/badge/JWT-161616?style=flat-square&logo=jsonwebtokens&logoColor=F8BBD0" alt="JWT">
-</p>
+A collaborative task management application designed to help teams organize tasks, track progress, and manage their work efficiently.
 
-<p>
-A full-stack <strong>online auction application</strong> featuring user authentication and auction-related functionality, built with the MERN ecosystem and MongoDB.
-</p>
+<br>
 
-<p align="center">
-  <a href="[PROJECT_REPOSITORY_URL]">
-    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=F8BBD0" alt="View Online Auction Platform repository">
-  </a>
-</p>
+<a href="[TEAMTASK_PRO_REPOSITORY_URL]">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TeamTask Pro repository">
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3 align="center">Human Pose Estimation</h3>
+### 🤖 AI Recruitment Intelligence Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=EF93C4" alt="Python">
-  <img src="https://img.shields.io/badge/OpenCV-161616?style=flat-square&logo=opencv&logoColor=F8BBD0" alt="OpenCV">
-  <img src="https://img.shields.io/badge/MediaPipe-161616?style=flat-square&logo=google&logoColor=FF69B4" alt="MediaPipe">
-</p>
+An AI-powered recruitment application designed to support candidate evaluation and streamline recruitment-related workflows.
 
-<p>
-A computer vision project that <strong>detects and tracks human body poses</strong> using Python, OpenCV, and MediaPipe technologies.
-</p>
+<br>
 
-<p align="center">
-  <a href="[PROJECT_REPOSITORY_URL]">
-    <img src="https://img.shields.io/badge/View%20Repository-161616?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF69B4" alt="View Human Pose Estimation repository">
-  </a>
-</p>
+<a href="https://github.com/Harini200513/AI-Recruitment-Intelligence-Platform">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Recruitment Intelligence Platform repository">
+</a>
 
 </td>
+
 </tr>
 </table>
 
